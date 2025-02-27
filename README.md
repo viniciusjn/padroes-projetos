@@ -33,7 +33,7 @@ Com o Java instalado e a IDE de sua escolha em mãos, você deverá primeirament
 https://github.com/viniciusjn/padroes-projeto.git
 ```
 
-Logo depois, é só abrir o projeto na IDE. Bons estudos.
+Logo depois, é só abrir o projeto na IDE e testar os padrões. Bons estudos.
 
 ## License
-Esse projeto possui MIT License Copyright (c) 2024 ᴠɪɴɪ. 
+Esse projeto possui MIT License Copyright (c) 2025 ᴠɪɴɪ. 
